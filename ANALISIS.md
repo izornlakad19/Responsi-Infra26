@@ -1,6 +1,3 @@
-<img width="430" height="233" alt="web 3" src="https://github.com/user-attachments/assets/44359656-cff6-41dd-a168-6d614fabd8a1" />
-<img width="452" height="219" alt="web 2" src="https://github.com/user-attachments/assets/3f0bae3c-ca59-400b-bf3c-f72487e0d657" />
-<img width="561" height="237" alt="web 1" src="https://github.com/user-attachments/assets/bbb4821c-dfd6-462e-a3f4-e49ae13f9cc4" />
 # Analisis Perbaikan
 
 ## Permasalahan 1
@@ -431,6 +428,11 @@ docker compose up -d
 ---
 
 ## Hasil Akhir
+<img width="561" height="237" alt="web 1" src="https://github.com/user-attachments/assets/bbb4821c-dfd6-462e-a3f4-e49ae13f9cc4" />
+<img width="452" height="219" alt="web 2" src="https://github.com/user-attachments/assets/3f0bae3c-ca59-400b-bf3c-f72487e0d657" />
+<img width="430" height="233" alt="web 3" src="https://github.com/user-attachments/assets/44359656-cff6-41dd-a168-6d614fabd8a1" />
+<img width="1850" height="176" alt="Screenshot 2026-06-08 232240" src="https://github.com/user-attachments/assets/cbad8843-9ab4-49b3-bbbb-7f26ee817768" />
+
 
 Setelah seluruh perbaikan dilakukan:
 
